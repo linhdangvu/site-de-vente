@@ -1,0 +1,50 @@
+nav {
+	overflow: hidden; 
+	background-color: #333333;
+}
+
+
+nav a {
+	float: right; 
+	display: block; 
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	text-decoration: none; 
+}
+
+nav a:hover {
+	color: #ddc403;
+}
+
+nav a {
+	float: left;
+}
+
+body {
+	background-color: lightblue;
+}
+
+label {
+	font-size: 30px;
+}
+
+
+button[type="submit"] {
+	text-align: center;
+	font-size: 20px;
+}
+
+
+input[type="submit"] {
+	text-align: center;
+	font-size: 20px;
+	width: 200px;
+}
+
+th {
+	font-size: 20px;
+}
+
+
